@@ -1,0 +1,28 @@
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\bin\Debug\net8.0\Setul 3 - ex. 14.exe
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\bin\Debug\net8.0\Setul 3 - ex. 14.deps.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\bin\Debug\net8.0\Setul 3 - ex. 14.runtimeconfig.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\bin\Debug\net8.0\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\bin\Debug\net8.0\Setul 3 - ex. 14.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.AssemblyInfoInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.AssemblyInfo.cs
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\refint\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\Setul 3 - ex. 14.genruntimeconfig.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14\obj\Debug\net8.0\ref\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\bin\Debug\net8.0\Setul 3 - ex. 14.exe
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\bin\Debug\net8.0\Setul 3 - ex. 14.deps.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\bin\Debug\net8.0\Setul 3 - ex. 14.runtimeconfig.json
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\bin\Debug\net8.0\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\bin\Debug\net8.0\Setul 3 - ex. 14.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.AssemblyInfoInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.AssemblyInfo.cs
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\refint\Setul 3 - ex. 14.dll
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.pdb
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\Setul 3 - ex. 14.genruntimeconfig.cache
+C:\Users\Any\OneDrive\Desktop\Seturi exercitii - FP\Setul 3\Setul 3 - ex. 14 ##\obj\Debug\net8.0\ref\Setul 3 - ex. 14.dll
